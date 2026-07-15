@@ -1,0 +1,10 @@
+^C:\USERS\JOHND\SOURCE\REPOS\RAYTRACING-GITHUB\INONEWEEKEND\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/JohnD/source/repos/Raytracing-Github/inOneWeekend -BC:/Users/JohnD/source/repos/Raytracing-Github/inOneWeekend/build --check-stamp-file C:/Users/JohnD/source/repos/Raytracing-Github/inOneWeekend/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
