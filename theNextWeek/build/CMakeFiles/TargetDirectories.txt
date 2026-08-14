@@ -1,0 +1,3 @@
+C:/Users/JohnD/source/repos/Raytracing-Github/theNextWeek/build/CMakeFiles/theNextWeek.dir
+C:/Users/JohnD/source/repos/Raytracing-Github/theNextWeek/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/JohnD/source/repos/Raytracing-Github/theNextWeek/build/CMakeFiles/ZERO_CHECK.dir
