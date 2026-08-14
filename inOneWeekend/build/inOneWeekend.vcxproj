@@ -314,6 +314,13 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\main.cpp" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\hittable.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\sphere.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\hittable_list.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\rtweekend.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\interval.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\camera.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\material.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\build\ZERO_CHECK.vcxproj">

@@ -6,9 +6,35 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
     <CustomBuild Include="C:\Users\JohnD\source\repos\Raytracing-Github\inOneWeekend\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BDE6D302-7B3C-3B33-8C34-E41C0C470DB6}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{8A04F6BE-2C87-3250-A281-3545F08D9435}</UniqueIdentifier>
     </Filter>
