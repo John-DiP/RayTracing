@@ -1,3 +1,0 @@
-C:/Users/JohnD/source/repos/Raytracing-Github/theNextWeek/out/build/x64-debug/CMakeFiles/theNextWeek.dir
-C:/Users/JohnD/source/repos/Raytracing-Github/theNextWeek/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/JohnD/source/repos/Raytracing-Github/theNextWeek/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
