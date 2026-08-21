@@ -12,7 +12,7 @@ endif()
 project ("theNextWeek")
 
 # Add source to this project's executable.
-add_executable (theNextWeek "main.cpp"  "hittable.h" "sphere.h" "hittable_list.h" "rtweekend.h" "interval.h" "camera.h" "material.h")
+add_executable (theNextWeek "main.cpp"  "hittable.h" "sphere.h" "hittable_list.h" "rtweekend.h" "interval.h" "camera.h" "material.h" "aabb.h" "bvh.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET theNextWeek PROPERTY CXX_STANDARD 20)
