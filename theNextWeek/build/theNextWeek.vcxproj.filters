@@ -27,6 +27,12 @@
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\material.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\bvh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\CMakeLists.txt" />

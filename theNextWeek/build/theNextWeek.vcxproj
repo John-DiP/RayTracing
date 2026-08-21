@@ -321,6 +321,8 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\interval.h" />
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\camera.h" />
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\material.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\aabb.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\bvh.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\build\ZERO_CHECK.vcxproj">
