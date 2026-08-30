@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\aabb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\bvh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\rtw_stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\external\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\perlin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\quad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\constant_medium.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\JohnD\source\repos\Raytracing-Github\theRestOfYourLife\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{31F19A92-7782-35C9-9274-3F002AE75D06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{305844B9-CDE5-3BD6-808B-1A3802DDB08C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/JohnD/source/repos/Raytracing-Github/theRestOfYourLife/build/CMakeFiles/theRestOfYourLife.dir
+C:/Users/JohnD/source/repos/Raytracing-Github/theRestOfYourLife/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/JohnD/source/repos/Raytracing-Github/theRestOfYourLife/build/CMakeFiles/ZERO_CHECK.dir
