@@ -323,6 +323,12 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\material.h" />
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\aabb.h" />
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\bvh.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\texture.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\rtw_stb_image.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\external\stb_image.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\perlin.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\quad.h" />
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\constant_medium.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\build\ZERO_CHECK.vcxproj">

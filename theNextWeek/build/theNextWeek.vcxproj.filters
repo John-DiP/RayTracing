@@ -33,6 +33,24 @@
     <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\bvh.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\rtw_stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\external\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\perlin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\quad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\constant_medium.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\JohnD\source\repos\Raytracing-Github\theNextWeek\CMakeLists.txt" />
